@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Archit</h1>
+<h3 align="center">Just a random passionate dude here</h3>
+
 
 <!--
 **CheckCheck28/CheckCheck28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
